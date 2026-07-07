@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "city": "Delhi",
+    "source_file": "customers_001.csv",
+    "loaded_at": "2026-07-02T10:00:00"
+  },
+  {
+    "id": 2,
+    "name": "Vivaan Patel",
+    "email": "vivaan.patel@example.com",
+    "city": "Mumbai",
+    "source_file": "customers_001.csv",
+    "loaded_at": "2026-07-02T10:01:00"
+  },
+  {
+    "id": 3,
+    "name": "Ananya Singh",
+    "email": "ananya.singh@example.com",
+    "city": "Bengaluru",
+    "source_file": "customers_001.csv",
+    "loaded_at": "2026-07-02T10:02:00"
+  },
+  {
+    "id": 4,
+    "name": "Diya Kapoor",
+    "email": "diya.kapoor@example.com",
+    "city": "Chennai",
+    "source_file": "customers_001.csv",
+    "loaded_at": "2026-07-02T10:03:00"
+  },
+  {
+    "id": 5,
+    "name": "Arjun Verma",
+    "email": "arjun.verma@example.com",
+    "city": "Hyderabad",
+    "source_file": "customers_001.csv",
+    "loaded_at": "2026-07-02T10:04:00"
+  },
+  {
+    "id": 6,
+    "name": "Ishita Gupta",
+    "email": "ishita.gupta@example.com",
+    "city": "Pune",
+    "source_file": "customers_001.csv",
+    "loaded_at": "2026-07-02T10:05:00"
+  },
+  {
+    "id": 7,
+    "name": "Kabir Mehta",
+    "email": "kabir.mehta@example.com",
+    "city": "Ahmedabad",
+    "source_file": "customers_001.csv",
+    "loaded_at": "2026-07-02T10:06:00"
+  },
+  {
+    "id": 8,
+    "name": "Meera Joshi",
+    "email": "meera.joshi@example.com",
+    "city": "Jaipur",
+    "source_file": "customers_001.csv",
+    "loaded_at": "2026-07-02T10:07:00"
+  },
+  {
+    "id": 9,
+    "name": "Rohan Nair",
+    "email": "rohan.nair@example.com",
+    "city": "Kochi",
+    "source_file": "customers_001.csv",
+    "loaded_at": "2026-07-02T10:08:00"
+  },
+  {
+    "id": 10,
+    "name": "Sneha Iyer",
+    "email": "sneha.iyer@example.com",
+    "city": "Coimbatore",
+    "source_file": "customers_001.csv",
+    "loaded_at": "2026-07-02T10:09:00"
+  },
+  {
+    "id": 11,
+    "name": "Customer 11",
+    "email": "customer11@example.com",
+    "city": "Delhi",
+    "source_file": "customers_002.csv",
+    "loaded_at": "2026-07-02T10:10:00"
+  },
+  {
+    "id": 12,
+    "name": "Customer 12",
+    "email": "customer12@example.com",
+    "city": "Mumbai",
+    "source_file": "customers_002.csv",
+    "loaded_at": "2026-07-02T10:11:00"
+  },
+  {
+    "id": 13,
+    "name": "Customer 13",
+    "email": "customer13@example.com",
+    "city": "Bengaluru",
+    "source_file": "customers_002.csv",
+    "loaded_at": "2026-07-02T10:12:00"
+  },
+  {
+    "id": 14,
+    "name": "Customer 14",
+    "email": "customer14@example.com",
+    "city": "Chennai",
+    "source_file": "customers_002.csv",
+    "loaded_at": "2026-07-02T10:13:00"
+  },
+  {
+    "id": 15,
+    "name": "Customer 15",
+    "email": "customer15@example.com",
+    "city": "Hyderabad",
+    "source_file": "customers_002.csv",
+    "loaded_at": "2026-07-02T10:14:00"
+  },
+  {
+    "id": 16,
+    "name": "Customer 16",
+    "email": "customer16@example.com",
+    "city": "Pune",
+    "source_file": "customers_002.csv",
+    "loaded_at": "2026-07-02T10:15:00"
+  },
+  {
+    "id": 17,
+    "name": "Customer 17",
+    "email": "customer17@example.com",
+    "city": "Ahmedabad",
+    "source_file": "customers_002.csv",
+    "loaded_at": "2026-07-02T10:16:00"
+  },
+  {
+    "id": 18,
+    "name": "Customer 18",
+    "email": "customer18@example.com",
+    "city": "Jaipur",
+    "source_file": "customers_002.csv",
+    "loaded_at": "2026-07-02T10:17:00"
+  },
+  {
+    "id": 19,
+    "name": "Customer 19",
+    "email": "customer19@example.com",
+    "city": "Lucknow",
+    "source_file": "customers_002.csv",
+    "loaded_at": "2026-07-02T10:18:00"
+  },
+  {
+    "id": 20,
+    "name": "Customer 20",
+    "email": "customer20@example.com",
+    "city": "Indore",
+    "source_file": "customers_002.csv",
+    "loaded_at": "2026-07-02T10:19:00"
+  },
+  {
+    "id": 21,
+    "name": "Customer 21",
+    "email": "customer21@example.com",
+    "city": "Delhi",
+    "source_file": "customers_003.csv",
+    "loaded_at": "2026-07-02T10:20:00"
+  },
+  {
+    "id": 22,
+    "name": "Customer 22",
+    "email": "customer22@example.com",
+    "city": "Mumbai",
+    "source_file": "customers_003.csv",
+    "loaded_at": "2026-07-02T10:21:00"
+  },
+  {
+    "id": 23,
+    "name": "Customer 23",
+    "email": "customer23@example.com",
+    "city": "Bengaluru",
+    "source_file": "customers_003.csv",
+    "loaded_at": "2026-07-02T10:22:00"
+  },
+  {
+    "id": 24,
+    "name": "Customer 24",
+    "email": "customer24@example.com",
+    "city": "Chennai",
+    "source_file": "customers_003.csv",
+    "loaded_at": "2026-07-02T10:23:00"
+  },
+  {
+    "id": 25,
+    "name": "Customer 25",
+    "email": "customer25@example.com",
+    "city": "Hyderabad",
+    "source_file": "customers_003.csv",
+    "loaded_at": "2026-07-02T10:24:00"
+  },
+  {
+    "id": 26,
+    "name": "Customer 26",
+    "email": "customer26@example.com",
+    "city": "Pune",
+    "source_file": "customers_003.csv",
+    "loaded_at": "2026-07-02T10:25:00"
+  },
+  {
+    "id": 27,
+    "name": "Customer 27",
+    "email": "customer27@example.com",
+    "city": "Ahmedabad",
+    "source_file": "customers_003.csv",
+    "loaded_at": "2026-07-02T10:26:00"
+  },
+  {
+    "id": 28,
+    "name": "Customer 28",
+    "email": "customer28@example.com",
+    "city": "Jaipur",
+    "source_file": "customers_003.csv",
+    "loaded_at": "2026-07-02T10:27:00"
+  },
+  {
+    "id": 29,
+    "name": "Customer 29",
+    "email": "customer29@example.com",
+    "city": "Lucknow",
+    "source_file": "customers_003.csv",
+    "loaded_at": "2026-07-02T10:28:00"
+  },
+  {
+    "id": 30,
+    "name": "Customer 30",
+    "email": "customer30@example.com",
+    "city": "Indore",
+    "source_file": "customers_003.csv",
+    "loaded_at": "2026-07-02T10:29:00"
+  },
+
+  {
+    "id": 31,
+    "name": "Customer 31",
+    "email": "customer31@example.com",
+    "city": "Delhi",
+    "source_file": "customers_004.csv",
+    "loaded_at": "2026-07-02T10:30:00"
+  },
+  {
+    "id": 32,
+    "name": "Customer 32",
+    "email": "customer32@example.com",
+    "city": "Mumbai",
+    "source_file": "customers_004.csv",
+    "loaded_at": "2026-07-02T10:31:00"
+  },
+  {
+    "id": 33,
+    "name": "Customer 33",
+    "email": "customer33@example.com",
+    "city": "Bengaluru",
+    "source_file": "customers_004.csv",
+    "loaded_at": "2026-07-02T10:32:00"
+  },
+  {
+    "id": 34,
+    "name": "Customer 34",
+    "email": "customer34@example.com",
+    "city": "Chennai",
+    "source_file": "customers_004.csv",
+    "loaded_at": "2026-07-02T10:33:00"
+  },
+  {
+    "id": 35,
+    "name": "Customer 35",
+    "email": "customer35@example.com",
+    "city": "Hyderabad",
+    "source_file": "customers_004.csv",
+    "loaded_at": "2026-07-02T10:34:00"
+  },
+  {
+    "id": 36,
+    "name": "Customer 36",
+    "email": "customer36@example.com",
+    "city": "Pune",
+    "source_file": "customers_004.csv",
+    "loaded_at": "2026-07-02T10:35:00"
+  },
+  {
+    "id": 37,
+    "name": "Customer 37",
+    "email": "customer37@example.com",
+    "city": "Ahmedabad",
+    "source_file": "customers_004.csv",
+    "loaded_at": "2026-07-02T10:36:00"
+  },
+  {
+    "id": 38,
+    "name": "Customer 38",
+    "email": "customer38@example.com",
+    "city": "Jaipur",
+    "source_file": "customers_004.csv",
+    "loaded_at": "2026-07-02T10:37:00"
+  },
+  {
+    "id": 39,
+    "name": "Customer 39",
+    "email": "customer39@example.com",
+    "city": "Lucknow",
+    "source_file": "customers_004.csv",
+    "loaded_at": "2026-07-02T10:38:00"
+  },
+  {
+    "id": 40,
+    "name": "Customer 40",
+    "email": "customer40@example.com",
+    "city": "Indore",
+    "source_file": "customers_004.csv",
+    "loaded_at": "2026-07-02T10:39:00"
+  }
+]
